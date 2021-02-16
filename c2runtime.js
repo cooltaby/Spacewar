@@ -28342,4 +28342,3 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Car.prototype.acts.SetSpeed,
 	cr.system_object.prototype.cnds.TriggerOnce
 ];};
-
